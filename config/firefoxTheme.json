@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Dark Theme - Black",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(28, 27, 34)",
+      "toolbar_text": "rgb(211, 211, 211)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(198, 198, 198)",
+      "toolbar_field": "rgb(40, 40, 40)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(138, 0, 2)",
+      "popup": "rgb(46, 45, 45)",
+      "popup_text": "rgb(255, 255, 255)",
+      "icons_attention": "rgb(255, 255, 255)",
+      "icons": "rgb(147, 147, 147)",
+      "toolbar_bottom_separator": "rgb(0, 0, 0)",
+      "toolbar_field_border_focus": "rgb(72, 72, 72)",
+      "tab_loading": "rgb(138, 0, 2)"
+    }
+  }
+}
